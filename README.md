@@ -38,5 +38,6 @@ Harnessing the brilliance of advanced machine learning, our tool dives deep into
         <li>Accurate price predictions using machine learning</li>
         <li>Real-time results</li>
   <li>Insights into current market trends</li>
-   
+
+  
    
