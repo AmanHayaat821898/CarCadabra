@@ -16,7 +16,7 @@ st.title("CarCadabra")
 st.sidebar.header("User Input Parameters")
 
 def user_input_features():
-    Year = st.sidebar.number_input('Year of Buying the Car', 1990, 2024, step=1, key='year')
+    Year = st.sidebar.number_input('Yer of Buying the Car', 1990, 2024, step=1, key='year')
     Present_Price = st.sidebar.number_input('What was the Cost Price of the Car? (In lakhs)', min_value=0.0, key='present_price')
     Kms_Driven = st.sidebar.number_input('How Many Kilometers Driven?', min_value=0.0, key='kms_driven')
     Owner = st.sidebar.selectbox('How many owners previously had the car?', [0, 1, 2, 3], key='owner')
