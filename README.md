@@ -22,7 +22,7 @@ Harnessing the brilliance of advanced machine learning, our tool dives deep into
      
  # Complete Process of Building CarCadabra
    <ol>
-                <li><b>Data Collection:</b> Gather data on car sales, including features such as car's cost price, previous owners, year of buying, kilometers driven, Fuel type, Seller type, Transmission along with the actual selling prices.</li>
+                <li><b>Data Collection:</b> Gather data on car sales, including features such as car's cost price, previous owners, year of buying, kilometers driven, Fuel type, Sellr type, Transmission along with the actual selling prices.</li>
                 <li><b>Data Preprocessing:</b> Clean the data, handle missing values, and preprocess features (e.g., encoding categorical variables, scaling numerical features).</li>
                 <li><b>Feature Selection:</b> Identify the most relevant features that influence car prices.</li>
                 <li><b>Model Training:</b> Chose regression algorithm and train the model on the preprocessed data, such as Random Forest Regressor and Extra Tree Regressor.</li>
